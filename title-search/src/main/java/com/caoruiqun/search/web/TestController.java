@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Set;
 
 @Controller
-public class TestController2 {
+public class TestController {
 
     @RequestMapping("/")
     public String testApp(Model model) throws Exception {
